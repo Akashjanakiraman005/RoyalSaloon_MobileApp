@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 960">
+  <rect width="768" height="960" fill="#f3ebe2"/>
+  <ellipse cx="384" cy="430" rx="142" ry="182" fill="#f6d5b9"/>
+  <path d="M220 298c48-120 292-136 338 6 20 60 7 168-34 242-18 31-37 52-61 66-28-44-58-71-79-81-21 10-51 37-79 81-24-14-43-35-61-66-41-74-53-184-24-248Z" fill="#2f2017"/>
+  <path d="M278 580c26-21 63-35 106-35s80 14 106 35" fill="none" stroke="#70533f" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="336" cy="422" r="8" fill="#2b1b13"/><circle cx="432" cy="422" r="8" fill="#2b1b13"/>
+  <path d="M338 492c14 12 34 18 46 18s32-6 46-18" fill="none" stroke="#9a6f55" stroke-width="8" stroke-linecap="round"/>
+  <text x="384" y="860" text-anchor="middle" font-size="44" fill="#3a271b" font-family="Georgia, serif">Front View Lob</text>
+</svg>

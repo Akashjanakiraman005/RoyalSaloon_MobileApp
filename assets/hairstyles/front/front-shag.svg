@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 960">
+  <rect width="768" height="960" fill="#efe6db"/>
+  <ellipse cx="384" cy="434" rx="140" ry="178" fill="#f6d6bb"/>
+  <path d="M216 326c49-114 303-130 345 3 18 58 7 147-30 218-24 47-62 83-102 106-25-35-45-55-65-69-20 14-40 34-65 69-40-23-78-59-102-106-37-71-48-163-21-221Z" fill="#3d2c22"/>
+  <path d="M268 590c34-16 76-43 116-78 40 35 82 62 116 78" fill="none" stroke="#7b5c48" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="338" cy="428" r="8" fill="#2a1a13"/><circle cx="430" cy="428" r="8" fill="#2a1a13"/>
+  <path d="M340 498c13 11 30 16 44 16s31-5 44-16" fill="none" stroke="#9b7057" stroke-width="8" stroke-linecap="round"/>
+  <text x="384" y="860" text-anchor="middle" font-size="44" fill="#39281c" font-family="Georgia, serif">Front Shag Layers</text>
+</svg>

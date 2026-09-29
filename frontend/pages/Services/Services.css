@@ -1,0 +1,23 @@
+.services-header p {
+  margin-top: 8px;
+  color: var(--muted);
+}
+
+.services-table {
+  display: grid;
+  gap: 8px;
+}
+
+.services-row {
+  display: grid;
+  grid-template-columns: 1.8fr 1fr 1fr;
+  padding: 12px;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  background: #fff;
+}
+
+.services-row--head {
+  background: #f8fafc;
+  font-weight: 700;
+}

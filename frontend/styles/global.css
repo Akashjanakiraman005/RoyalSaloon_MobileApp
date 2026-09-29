@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Outfit:wght@300;400;500;600;700;800&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Outfit', ui-sans-serif, system-ui, sans-serif;
+  --font-headline: 'Playfair Display', Georgia, serif;
+
+  --color-royal-purple: #34146c;
+  --color-royal-purple-container: #4b2e83;
+  --color-gold: #735b24;
+  --color-surface: #f9f9f9;
+  --color-surface-lowest: #ffffff;
+  --color-surface-low: #f3f3f3;
+  --color-sidebar: #1c1b1b;
+}
+
+@layer base {
+  body {
+    @apply bg-surface text-stone-900 font-sans antialiased;
+  }
+}
+
+@layer components {
+  .glass-panel {
+    @apply bg-white/85 backdrop-blur-[20px];
+  }
+
+  .ambient-shadow {
+    box-shadow: 0px 24px 48px rgba(26, 28, 28, 0.06);
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}

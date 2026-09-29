@@ -1,0 +1,22 @@
+.dashboard-hero p {
+  margin-top: 8px;
+  color: var(--muted);
+}
+
+.dashboard-stat p {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.dashboard-stat h3 {
+  margin-top: 8px;
+  font-size: 28px;
+  color: var(--brand);
+}
+
+.dashboard-list {
+  margin: 14px 0 0;
+  padding-left: 18px;
+  display: grid;
+  gap: 8px;
+}

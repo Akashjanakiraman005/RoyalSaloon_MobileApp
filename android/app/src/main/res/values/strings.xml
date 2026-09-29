@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RoyalSalon</string>
+    <string name="title_activity_main">RoyalSalon</string>
+    <string name="package_name">com.royalsalon.billing</string>
+    <string name="custom_url_scheme">com.royalsalon.billing</string>
+</resources>

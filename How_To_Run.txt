@@ -1,0 +1,24 @@
+Hey! Here is how you can run the mobile application:
+
+--- Option 1: Install it on your Android Phone (Easiest) ---
+1. Go to the project folder on your computer.
+2. Navigate to: android/app/build/outputs/apk/debug/
+3. Send the file "app-debug.apk" to your phone and install it.
+
+--- Option 2: Run in a Mobile Simulator on your Laptop ---
+1. Install Node.js and Android Studio on your laptop.
+2. Open terminal in the project folder and run:
+   npm install
+   npm run build
+   npx cap sync
+   npx cap open android
+3. In Android Studio, start an Emulator and click the green Run button.
+
+--- Option 3: Run the Web Version in Mobile Screen View ---
+1. Start the app by running:
+   npm run dev
+2. Open http://localhost:3000 in Chrome.
+3. Press F12, then press Ctrl+Shift+M (on Windows) or Cmd+Shift+M (on Mac) to view it as a mobile screen.
+
+Note: To make billing/PDFs work, run this in another terminal window:
+npm run dev:backend

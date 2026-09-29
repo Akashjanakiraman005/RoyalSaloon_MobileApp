@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 960">
+  <rect width="768" height="960" fill="#f4ebe0"/>
+  <ellipse cx="384" cy="446" rx="138" ry="176" fill="#f7d7bc"/>
+  <path d="M248 360c20-102 250-144 285-27 11 36 4 94-19 136-22 39-68 61-101 73-9-6-18-8-29-8s-20 2-29 8c-33-12-79-34-101-73-23-42-31-103-6-139Z" fill="#221813"/>
+  <path d="M290 334c45-39 147-48 188 0" fill="none" stroke="#1a120f" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="338" cy="438" r="8" fill="#26170f"/><circle cx="430" cy="438" r="8" fill="#26170f"/>
+  <path d="M340 506c12 10 29 15 44 15s32-5 44-15" fill="none" stroke="#986e54" stroke-width="8" stroke-linecap="round"/>
+  <text x="384" y="860" text-anchor="middle" font-size="44" fill="#38271b" font-family="Georgia, serif">Front Pixie Cut</text>
+</svg>

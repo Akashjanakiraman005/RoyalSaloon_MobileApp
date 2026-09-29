@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 960">
+  <rect width="768" height="960" fill="#efe6db"/>
+  <ellipse cx="384" cy="430" rx="142" ry="182" fill="#f5d3b7"/>
+  <path d="M215 310c56-111 304-127 346 5 20 60 6 163-31 236-22 42-53 75-84 96-21-31-40-48-62-62-22 14-41 31-62 62-31-21-62-54-84-96-37-73-50-177-23-241Z" fill="#33241b"/>
+  <path d="M326 294c30 36 30 90 3 136" fill="none" stroke="#251913" stroke-width="16" stroke-linecap="round"/>
+  <path d="M442 294c-30 36-30 90-3 136" fill="none" stroke="#251913" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="337" cy="426" r="8" fill="#281a13"/><circle cx="431" cy="426" r="8" fill="#281a13"/>
+  <path d="M338 498c13 11 32 16 46 16s33-5 46-16" fill="none" stroke="#9b7057" stroke-width="8" stroke-linecap="round"/>
+  <text x="384" y="860" text-anchor="middle" font-size="42" fill="#3a281d" font-family="Georgia, serif">Front Curtain Bangs</text>
+</svg>

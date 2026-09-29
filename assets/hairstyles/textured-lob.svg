@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 840">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f4efe7" />
+      <stop offset="100%" stop-color="#e4d8ca" />
+    </linearGradient>
+  </defs>
+  <rect width="640" height="840" fill="url(#bg)" />
+  <ellipse cx="320" cy="380" rx="115" ry="150" fill="#f9dcc1" />
+  <path d="M180 285c45-90 235-110 283 5 20 48 8 143-24 193-14 22-31 35-53 43-29-34-65-53-66-53s-37 20-66 53c-24-9-41-22-54-45-33-56-43-151-20-196Z" fill="#2d2018"/>
+  <path d="M232 532c30-27 65-45 88-45s58 18 88 45" fill="none" stroke="#6a4e37" stroke-width="14" stroke-linecap="round"/>
+  <text x="320" y="728" text-anchor="middle" font-size="42" fill="#3b2a1d" font-family="Georgia, serif">Textured Lob</text>
+  <text x="320" y="768" text-anchor="middle" font-size="24" fill="#6f5847" font-family="Verdana, sans-serif">Style Inspiration</text>
+</svg>

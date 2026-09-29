@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 840">
+  <rect width="640" height="840" fill="#efe5da" />
+  <ellipse cx="320" cy="395" rx="110" ry="145" fill="#f7d8bc" />
+  <path d="M187 336c31-86 228-117 264-5 10 30 10 80-6 120-13 31-37 60-67 82-16-20-33-33-58-45-25 12-42 25-58 45-31-23-55-52-68-84-16-40-15-89-5-113Z" fill="#30231b"/>
+  <path d="M244 536c23-16 49-27 76-27 27 0 53 11 76 27" fill="none" stroke="#755846" stroke-width="12" stroke-linecap="round"/>
+  <text x="320" y="728" text-anchor="middle" font-size="36" fill="#322419" font-family="Georgia, serif">Chin Textured Bob</text>
+  <text x="320" y="768" text-anchor="middle" font-size="24" fill="#6f5948" font-family="Verdana, sans-serif">Style Inspiration</text>
+</svg>
